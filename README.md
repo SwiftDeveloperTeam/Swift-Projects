@@ -8,6 +8,8 @@
  - [iContactU](https://github.com/rizal72/iContactU)
  - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp)
  - [SwiftWeather](https://github.com/JakeLin/SwiftWeather)
+ - [BaiduFM](https://github.com/belm/BaiduFM-Swift)
+
 
 ###  Index
 - [UI](#UI)
