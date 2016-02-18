@@ -1,6 +1,4 @@
 # how-to-write-swift-projects
-several excellent swift projects collections
-
 
 ### excellent projects
  - [swift-2048 ](https://github.com/austinzheng/swift-2048)
@@ -11,8 +9,7 @@ several excellent swift projects collections
  - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp)
  - [SwiftWeather](https://github.com/JakeLin/SwiftWeather)
 
-
-###  目录
+###  Index
 - [UI](#UI)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
